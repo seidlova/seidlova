@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marketa Seidlova.
+- 👋 Hi, I’m Marketa Seidlova, here as @seidlova.
 - 👀 I’m interested in data analysis and I love to analyse data in broader context.
 - 🌱 I’m currently deeping my knowledge of SQL, Python and PowerBI.
 - 💞️ I’m looking to collaborate on projects that extend into other fields.
